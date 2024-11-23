@@ -1,0 +1,2399 @@
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":".NET"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"1password"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"3D"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"3d"},{"LOWER":"reconstruction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aboutness"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"abstract"},{"LOWER":"data"},{"LOWER":"type"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"abstract"},{"LOWER":"interpretation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"abstract"},{"LOWER":"machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"access"},{"LOWER":"control"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"access"},{"LOWER":"method"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"access"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"accounting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"active"},{"LOWER":"appearance"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"active"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"active"},{"LOWER":"networking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"active"},{"LOWER":"shape"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"activemq"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"activity"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"actuarial"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"actuator"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"adaboost"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"adaptive"},{"LOWER":"routing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"adaptive"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"adder"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"adobe"},{"LOWER":"illustrator"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"adobe"},{"LOWER":"photoshop"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"advertising"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aerial"},{"LOWER":"photography"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aeronautics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aerospace"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aerospike"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"agile"},{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"agricultural"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"airflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"airtable"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ajax"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"akamai"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"akka"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"algolia"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"algorithms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"algorithm"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"alpine"},{"LOWER":"linux"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"api"},{"LOWER":"gateway"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"athena"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudfront"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudwatch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"cognito"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"dynamodb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"ebs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"},{"LOWER":"container"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"eks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticache"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticsearch"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"emr"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"},{"LOWER":"firehose"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"aurora"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"postgresql"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"redshift"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"route"},{"LOWER":"53"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"s3"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"ses"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"sns"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"sqs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"vpc"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ambiguity"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amp"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amplitude"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"analog-to-digital"},{"LOWER":"converter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"analog"},{"LOWER":"to"},{"LOWER":"digital converter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"algorithms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"covariance"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"variance"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"analytics"},{"LOWER":"integrator"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"android"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"android"},{"LOWER":"sdk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"android"},{"LOWER":"studio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"angular"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"angular"},{"LOWER":"2"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"angularjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"angularui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"anomaly"},{"LOWER":"detection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ansible"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ant"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"ant"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"cordova"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"flink"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"http"},{"LOWER":"server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"maven"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"mesos"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"spark"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"tomcat"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apache"},{"LOWER":"zeppelin"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"API"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"api"},{"LOWER":"documentation"},{"LOWER":"browser"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"api"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"api.ai"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"api"},{"LOWER":"ai"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apiary"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apigee"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"apollo"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"appium"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"application"},{"LOWER":"and"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"application"},{"LOWER":"hosting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"application"},{"LOWER":"programming"},{"LOWER":"interface"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"application"},{"LOWER":"server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"application-specific"},{"LOWER":"integrated"},{"LOWER":"circuit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"application"},{"LOWER":"specific integrated circuit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"application"},{"LOWER":"utilities"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"appveyor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"arangodb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"arbol"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"arboriculture"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"arborist"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"arch"},{"LOWER":"linux"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"architectural"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"arduino"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"art"},{"LOWER":"&"},{"LOWER":"architecture"},{"LOWER":"thesaurus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ai"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"artificial"},{"LOWER":"intelligence"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"artificial"},{"LOWER":"neural"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"asana"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"ASP.NET"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aspect-oriented"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aspect"},{"LOWER":"oriented programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"ASP.NET"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"assets"},{"LOWER":"and"},{"LOWER":"media"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"association"},{"LOWER":"rule"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"asynchronous"},{"LOWER":"communication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"asynchronous"},{"LOWER":"transfer"},{"LOWER":"mode"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"atom"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"audio"},{"LOWER":"signal"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"augmented"},{"LOWER":"reality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aurelia"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"auth0"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"authentication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"authy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"automated"},{"LOWER":"reasoning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"automated"},{"LOWER":"theorem"},{"LOWER":"proving"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"automatic"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"automatic"},{"LOWER":"summarization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"automatic"},{"LOWER":"taxonomy"},{"LOWER":"induction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"automaton"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"automotive"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"autonomic"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"AVA"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"awesome"},{"LOWER":"lists"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"cloudformation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"codebuild"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"codecommit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"codedeploy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"codepipeline"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"direct"},{"LOWER":"connect"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"beanstalk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"load"},{"LOWER":"balancing"},{"LOWER":"(elb)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"fargate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"iam"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"lambda"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"aws"},{"LOWER":"opsworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"AWX"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"azure"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"azure"},{"LOWER":"cosmos"},{"LOWER":"db"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"azure"},{"LOWER":"functions"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"azure"},{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"azure"},{"LOWER":"storage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"azure"},{"LOWER":"websites"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"babel"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"back"},{"LOWER":"office"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"backbone.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"backbone"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"background"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"background"},{"LOWER":"subtraction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bag-of-words"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bag"},{"LOWER":"of"},{"LOWER":"words model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bamboo"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"base"},{"LOWER":"station"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bash"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"batch"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bayesian"},{"LOWER":"inference"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bayesian"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bayesian"},{"LOWER":"probability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bazel"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"beanstalk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"beanstalkd"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"benchmark"},{"LOWER":"(computing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"beta"},{"LOWER":"by"},{"LOWER":"crashlytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"beta"},{"LOWER":"testing"},{"LOWER":"/"},{"LOWER":"mobile"},{"LOWER":"app"},{"LOWER":"distribution"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"beta testing "},{"LOWER":" mobile app distribution"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bibliographic"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bibliometrics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"big"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"binary"},{"LOWER":"search"},{"LOWER":"tree"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"biochemical"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"biological"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"biomedical"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"biometrics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bitbucket"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bitcoin"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bitrise"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"blind"},{"LOWER":"signal"},{"LOWER":"separation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"blockchain"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"body"},{"LOWER":"text"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"boolean"},{"LOWER":"algebra"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"boolean"},{"LOWER":"expression"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"boosting"},{"LOWER":"(machine"},{"LOWER":"learning)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"boot2docker"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bootstrap"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bootswatch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bourbon"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bower"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"box"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"brackets"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"brain"},{"LOWER":"mapping"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"braintree"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"branch"},{"LOWER":"and"},{"LOWER":"bound"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"breadth-first"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"breadth"},{"LOWER":"first search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"brightness"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"broadcasting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"browser"},{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"browserify"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"browserstack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"browsersync"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"brunch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"brute-force"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"brute"},{"LOWER":"force search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"buddy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"buffer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"buffer"},{"LOWER":"overflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"build,"},{"LOWER":"test,"},{"LOWER":"deploy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"buildkite"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"built-in"},{"LOWER":"self-test"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"built"},{"LOWER":"in self"},{"LOWER":"test"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"bulma"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"business"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"business"},{"LOWER":"administration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"business"},{"LOWER":"dashboards"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"business"},{"LOWER":"intelligence"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"business"},{"LOWER":"intelligence"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"business"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"C++"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"C"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"c3.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"c3"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"caddy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cakephp"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"canonical"},{"LOWER":"correlation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"canonical"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"capistrano"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"capybara"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"case-based"},{"LOWER":"reasoning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"case"},{"LOWER":"based reasoning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cassandra"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cataloging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cdnjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"celery"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cellular"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"centos"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"central"},{"LOWER":"processing"},{"LOWER":"unit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cepstrum"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"certificate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"certificate"},{"LOWER":"authority"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"change"},{"LOWER":"detection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chartbeat"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"charting"},{"LOWER":"libraries"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chatbot"},{"LOWER":"platforms"},{"LOWER":"&"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chatops"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chef"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chemical"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chemometrics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chrome"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"chrome"},{"LOWER":"extension"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"circleci"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"circumscription"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"civil"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"classical"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"classifier"},{"LOWER":"(linguistics)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clef"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clever"},{"LOWER":"cloud"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"command"},{"LOWER":"line"},{"LOWER":"interface"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clicktale"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clicky"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"client\u2013server"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clinicalkey"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clojure"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clojurescript"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clone"},{"LOWER":"(java"},{"LOWER":"method)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"access"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"content"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"firestore"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"foundry"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"functions"},{"LOWER":"for"},{"LOWER":"firebase"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"hosting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"ide"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud"},{"LOWER":"storage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloud9"},{"LOWER":"ide"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloudflare"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cloudinary"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"clubhouse"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cluster"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cluster"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"COBOL"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cocoa"},{"LOWER":"touch"},{"LOWER":"(ios)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codacy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"code"},{"LOWER":"climate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"code"},{"LOWER":"collaboration"},{"LOWER":"&"},{"LOWER":"version"},{"LOWER":"control"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"code"},{"LOWER":"coverage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"code"},{"LOWER":"generation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"code"},{"LOWER":"quality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"code"},{"LOWER":"review"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"code"},{"LOWER":"review"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codeanywhere"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codebook"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codec"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codecov"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codeigniter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codekit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codemirror"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codenvy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"codeship"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"coding"},{"LOWER":"(social"},{"LOWER":"sciences)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"coffeescript"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cognitive"},{"LOWER":"neuroscience"},{"LOWER":"of"},{"LOWER":"visual"},{"LOWER":"object"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"collaboration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"collision"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"color"},{"LOWER":"vision"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"colorimetry"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"combinatorial"},{"LOWER":"optimization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"commenting"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"commerce"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"common"},{"LOWER":"object"},{"LOWER":"request"},{"LOWER":"broker"},{"LOWER":"architecture"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"communication"},{"LOWER":"complexity"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"communication"},{"LOWER":"in"},{"LOWER":"small"},{"LOWER":"groups"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"communications"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"communications"},{"LOWER":"protocol"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"communications"},{"LOWER":"sdk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"communications"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"compass"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"compiler"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"complex"},{"LOWER":"data"},{"LOWER":"type"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"complex"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"component"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"component"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"compose"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"composer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"composite"},{"LOWER":"index"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"composite"},{"LOWER":"number"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"comprehension"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"compressed"},{"LOWER":"sensing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computability"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computational"},{"LOWER":"complexity"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computational"},{"LOWER":"geometry"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computational"},{"LOWER":"mathematics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computational"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computational"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer-aided"},{"LOWER":"software"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"aided software engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"architecture"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"cluster"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"data"},{"LOWER":"storage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"file"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"graphics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"graphics"},{"LOWER":"(images)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"hardware"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"multitasking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"program"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"security"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"computer"},{"LOWER":"vision"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"concept"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"conceptual"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"concourse"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"concurrency"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"concurrency"},{"LOWER":"control"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"concurrency"},{"LOWER":"frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"concurrent"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"conditional"},{"LOWER":"random"},{"LOWER":"field"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"conductor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"confirmatory"},{"LOWER":"factor"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"confluence"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"consistency"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"constant"},{"LOWER":"false"},{"LOWER":"alarm"},{"LOWER":"rate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"construction"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"consul"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"container"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"containers"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"content"},{"LOWER":"delivery"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"content"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"context-free"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"context"},{"LOWER":"free language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"contextual"},{"LOWER":"query"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"contingency"},{"LOWER":"table"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"continuous"},{"LOWER":"deployment"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"continuous"},{"LOWER":"integration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"continuous"},{"LOWER":"integration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"continuum"},{"LOWER":"(design"},{"LOWER":"consultancy)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"control"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"control"},{"LOWER":"flow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"control"},{"LOWER":"reconfiguration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"control"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"controlled"},{"LOWER":"vocabulary"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"conventional"},{"LOWER":"pci"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"convergence"},{"LOWER":"(routing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"coordinate"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"copy"},{"LOWER":"protection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"core"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"coreos"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"corner"},{"LOWER":"detection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"correctness"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"correlation"},{"LOWER":"coefficient"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cost"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"couchbase"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"couchdb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"coveralls"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"C++"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cranfield"},{"LOWER":"experiments"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"crashlytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"crazy"},{"LOWER":"egg"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"create"},{"LOWER":"react"},{"LOWER":"app"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"create"},{"LOWER":"react"},{"LOWER":"native"},{"LOWER":"app"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"critical"},{"LOWER":"mass"},{"LOWER":"(software"},{"LOWER":"engineering)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"critical"},{"LOWER":"path"},{"LOWER":"method"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"critical"},{"LOWER":"section"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"CRM"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross-correlation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross"},{"LOWER":"correlation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross-platform"},{"LOWER":"desktop"},{"LOWER":"development"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross"},{"LOWER":"platform desktop development"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross-platform"},{"LOWER":"mobile"},{"LOWER":"development"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross"},{"LOWER":"platform mobile development"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross-platform"},{"LOWER":"mobile"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross"},{"LOWER":"platform mobile tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross-validation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cross"},{"LOWER":"validation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"crowdsourcing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cryptocurrency"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cryptographic"},{"LOWER":"protocol"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cryptography"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"crystal"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"C#"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"CSS"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"css"},{"LOWER":"pre-processors"},{"LOWER":"/"},{"LOWER":"extensions"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"css pre-processors "},{"LOWER":" extensions"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"css pre"},{"LOWER":"processors / extensions"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cucumber"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"curse"},{"LOWER":"of"},{"LOWER":"dimensionality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"curve"},{"LOWER":"fitting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"custom"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"customer"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"customer"},{"LOWER":"relationship"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"customer"},{"LOWER":"support"},{"LOWER":"chat"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"cypress"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"d3.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"d3"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dart"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dash"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"access"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"acquisition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"center"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"classification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"compression"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"consistency"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"cube"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"exchange"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"extraction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"file"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"flow"},{"LOWER":"diagram"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"integration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"integrity"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"logger"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"manipulation"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"mining"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"modeling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"pre-processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data pre"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"quality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"reduction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"science"},{"LOWER":"notebooks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"science"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"sharing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"stores"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"stream"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"stream"},{"LOWER":"mining"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"structure"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"structures"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"transmission"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"type"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"validation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"visualization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"data"},{"LOWER":"warehouse"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"database"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"database"},{"LOWER":"security"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"database"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"database"},{"LOWER":"transaction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"databases"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"datadog"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"datalog"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"DC/OS"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dc"},{"LOWER":"os"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deadlock"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"debian"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"debugging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"decidability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"decision"},{"LOWER":"problem"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"decision"},{"LOWER":"rule"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"decision"},{"LOWER":"support"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"decision"},{"LOWER":"tree"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deco"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"decomposition"},{"LOWER":"method"},{"LOWER":"(constraint"},{"LOWER":"satisfaction)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dedicated"},{"LOWER":"cloud"},{"LOWER":"hosting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deductive"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deep"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dempster\u2013shafer"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"denial-of-service"},{"LOWER":"attack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"denial"},{"LOWER":"of"},{"LOWER":"service attack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deontic"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dependency"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dependency"},{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deploybot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deployment"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deployment"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"description"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"design"},{"LOWER":"for"},{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"detection"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"deterministic"},{"LOWER":"automaton"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"devdocs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"devise"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"devops"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"diagram"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"digital"},{"LOWER":"filter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"digital"},{"LOWER":"radio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"digital"},{"LOWER":"signal"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"digital"},{"LOWER":"signature"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"digital"},{"LOWER":"subscriber"},{"LOWER":"line"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"digitalocean"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dijkstra's"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dimensionality"},{"LOWER":"reduction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"directed"},{"LOWER":"graph"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"discrete"},{"LOWER":"cosine"},{"LOWER":"transform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"discrete"},{"LOWER":"event"},{"LOWER":"simulation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"discrete"},{"LOWER":"logarithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"discrete"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"discriminative"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"disjunctive"},{"LOWER":"normal"},{"LOWER":"form"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"display"},{"LOWER":"device"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"disqus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distance"},{"LOWER":"transform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"},{"LOWER":"environment"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"data"},{"LOWER":"store"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"file"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"distributed"},{"LOWER":"object"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"divide"},{"LOWER":"and"},{"LOWER":"conquer"},{"LOWER":"algorithms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"django"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"django"},{"LOWER":"rest"},{"LOWER":"framework"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dns"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dnsimple"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"docker"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"docker"},{"LOWER":"cloud"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"docker"},{"LOWER":"compose"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"docker"},{"LOWER":"for"},{"LOWER":"aws"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"docker"},{"LOWER":"machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"docker"},{"LOWER":"swarm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"doctrine"},{"LOWER":"2"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"document"},{"LOWER":"classification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"document"},{"LOWER":"collaboration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"document"},{"LOWER":"layout"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"document"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"document"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"document"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"document"},{"LOWER":"signature"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"documentation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"documentation"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"LOWER":"&"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dokku"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"domain"},{"LOWER":"knowledge"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"domain"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"domain"},{"LOWER":"registration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":".NET"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"drone.io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"drone"},{"LOWER":"io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dropbox"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dropwizard"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"druid"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"drupal"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"duplicate"},{"LOWER":"content"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"durability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dyn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dynamic"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dynamic"},{"LOWER":"loading"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dynamic"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dynamic"},{"LOWER":"range"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dynamic"},{"LOWER":"source"},{"LOWER":"routing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dynamic"},{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"dynamic"},{"LOWER":"time"},{"LOWER":"warping"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"echo"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"eclipse"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ecommerce"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"econometric"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"economic"},{"LOWER":"policy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"edit"},{"LOWER":"distance"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"elasticsearch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"electrical"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"electroencephalography"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"electron"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"electronic"},{"LOWER":"data"},{"LOWER":"interchange"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"electronic"},{"LOWER":"document"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"electronic"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"elixir"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"elm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"emacs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"email"},{"LOWER":"marketing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"email"},{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"embedded"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ember"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ember.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ember"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"emoji"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"emotion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"emotion"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"emulator"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"encoding"},{"LOWER":"(memory)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"encryption"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"engagement/lifecycle"},{"LOWER":"marketing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"engagement"},{"LOWER":"lifecycle marketing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"engineering"},{"LOWER":"drawing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"engineering"},{"LOWER":"ethics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ensemble"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"enterprise"},{"LOWER":"information"},{"LOWER":"security"},{"LOWER":"architecture"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"enterprise"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"entity\u2013relationship"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"environmental"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"enzyme"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"erasure"},{"LOWER":"code"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"erlang"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"error"},{"LOWER":"concealment"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"error"},{"LOWER":"detection"},{"LOWER":"and"},{"LOWER":"correction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"errors-in-variables"},{"LOWER":"models"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"errors"},{"LOWER":"in"},{"LOWER":"variables models"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"ES6"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"eslint"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"ESPACE"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"etcd"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ethereum"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ethernet"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"euclidean"},{"LOWER":"distance"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"eureka"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"evolutionary"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"exact"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"exception"},{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"expander"},{"LOWER":"graph"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"expectation\u2013maximization"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"expert"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"exploratory"},{"LOWER":"data"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"express"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"expressjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"external"},{"LOWER":"data"},{"LOWER":"representation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"eye"},{"LOWER":"movement"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"eye"},{"LOWER":"tracking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"F#"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fabric"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fabric"},{"LOWER":"by"},{"LOWER":"twitter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"faceted"},{"LOWER":"classification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"faceted"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"facial"},{"LOWER":"expression"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"facial"},{"LOWER":"recognition"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"factorial"},{"LOWER":"experiment"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"false"},{"LOWER":"positive"},{"LOWER":"rate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fast"},{"LOWER":"fourier"},{"LOWER":"transform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fastlane"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fastly"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fault"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fault"},{"LOWER":"tolerance"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"feathersjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"feature"},{"LOWER":"detection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"feature"},{"LOWER":"extraction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"feature"},{"LOWER":"selection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"feature"},{"LOWER":"vector"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fedora"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"FFMPEG"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"field"},{"LOWER":"of"},{"LOWER":"view"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"field-programmable"},{"LOWER":"gate"},{"LOWER":"array"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"field"},{"LOWER":"programmable gate array"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"figma"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"figure"},{"LOWER":"of"},{"LOWER":"merit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"file"},{"LOWER":"format"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"file"},{"LOWER":"storage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"file"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"file"},{"LOWER":"uploads"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"filestack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"filter"},{"LOWER":"(signal"},{"LOWER":"processing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"finagle"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"finance"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"financial"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"findability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fingerprint"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fingerprint"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"finite-state"},{"LOWER":"machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"finite"},{"LOWER":"state machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"firebase"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"firefox"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"first"},{"LOWER":"class"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"first-order"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"first"},{"LOWER":"order logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flash"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flask"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flat"},{"LOWER":"panel"},{"LOWER":"display"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flip-flop"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flip"},{"LOWER":"flop"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"floating"},{"LOWER":"point"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flow"},{"LOWER":"control"},{"LOWER":"(data)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flow"},{"LOWER":"type"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fluentd"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flurry"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flutter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flux"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"flyway"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"folksonomy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"font"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"forensic"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"formal"},{"LOWER":"concept"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"formal"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"formal"},{"LOWER":"methods"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"formal"},{"LOWER":"specification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"formal"},{"LOWER":"verification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fortran"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"forums"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"FOSSA"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fragmentation"},{"LOWER":"(computing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"framer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"framework"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"framework7"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"frameworks"},{"LOWER":"(full"},{"LOWER":"stack)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"frequency"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"frequency"},{"LOWER":"domain"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"front"},{"LOWER":"and"},{"LOWER":"back"},{"LOWER":"ends"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"front-end"},{"LOWER":"frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"front"},{"LOWER":"end frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"front"},{"LOWER":"end"},{"LOWER":"package"},{"LOWER":"manager"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"front"},{"LOWER":"end"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fullstory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"functional"},{"LOWER":"dependency"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"functional"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"functional"},{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"funnel"},{"LOWER":"analysis"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fusion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"fuzzy"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"g"},{"LOWER":"suite"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"game"},{"LOWER":"development"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"game"},{"LOWER":"engine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"garbage"},{"LOWER":"collection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gatling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gatsby"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gauges"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gaussian"},{"LOWER":"noise"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gaussian"},{"LOWER":"process"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gearman"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"geckoboard"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"general"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"generalization"},{"LOWER":"error"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"generalized"},{"LOWER":"linear"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"genetic"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"geographic"},{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"geometric"},{"LOWER":"modeling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"geoparsing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"geospatial"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"geotagging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"geotechnical"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gerrit"},{"LOWER":"code"},{"LOWER":"review"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gist"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"git"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"git"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gitbucket"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"github"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"github"},{"LOWER":"api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"github"},{"LOWER":"enterprise"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"github"},{"LOWER":"pages"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gitkraken"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gitlab"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gitlab"},{"LOWER":"ci"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gitlab"},{"LOWER":"pages"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gluon"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gnu"},{"LOWER":"bash"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"go.cd"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"go"},{"LOWER":"cd"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"godaddy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gogs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"goodness"},{"LOWER":"of"},{"LOWER":"fit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"engine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"maker"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"bigquery"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"bigtable"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"container"},{"LOWER":"builder"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dataflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"datastore"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dns"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"functions"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"memorystore"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"messaging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"pub/sub"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google cloud pub"},{"LOWER":"sub"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"sql"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"storage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"vision"},{"LOWER":"api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"compute"},{"LOWER":"engine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"drive"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"kubernetes"},{"LOWER":"engine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"maps"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"scholar"},{"LOWER":"and"},{"LOWER":"academic"},{"LOWER":"libraries"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"sheets"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"google"},{"LOWER":"tag"},{"LOWER":"manager"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gradient"},{"LOWER":"descent"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gradle"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"grafana"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"grails"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"grape"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"graph"},{"LOWER":"databases"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"graphic"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"graphical"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"graphical"},{"LOWER":"user"},{"LOWER":"interface"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"graphite"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"graphql"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"greedy"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"groovy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ground"},{"LOWER":"truth"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"group"},{"LOWER":"chat"},{"LOWER":"&"},{"LOWER":"notifications"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"growbag"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"grpc"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"grunt"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"GSM"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"GTP'"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gulp"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gulp"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"gunicorn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"guzzle"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hadoop"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"HAML"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"handlebars.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"handlebars"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"handover"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hapi"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"haproxy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"haptic"},{"LOWER":"technology"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hash"},{"LOWER":"function"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"haskell"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hasura"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hazelcast"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hbase"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"headless"},{"LOWER":"browsers"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"heap"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"heap"},{"LOWER":"(data"},{"LOWER":"structure)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"heatmap"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"helm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"help"},{"LOWER":"desk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"heroku"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"heroku"},{"LOWER":"ci"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"heroku"},{"LOWER":"postgres"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"heroku"},{"LOWER":"redis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hetzner"},{"LOWER":"online"},{"LOWER":"ag"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hexo"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hhvm"},{"LOWER":"(hiphop"},{"LOWER":"virtual"},{"LOWER":"machine)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hibernate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hidden"},{"LOWER":"markov"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hierarchical"},{"LOWER":"database"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"high"},{"LOWER":"availability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"high-level"},{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"high"},{"LOWER":"level programming language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"high-level"},{"LOWER":"synthesis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"high"},{"LOWER":"level synthesis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"highcharts"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"higher-order"},{"LOWER":"statistics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"higher"},{"LOWER":"order statistics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hilbert\u2013huang"},{"LOWER":"transform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hipchat"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"histogram"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hockeyapp"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hogan.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hogan"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"homebrew"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"homebridge"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"homogeneity"},{"LOWER":"(statistics)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hosted"},{"LOWER":"blogging"},{"LOWER":"platforms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hotjar"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hough"},{"LOWER":"transform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"HTML"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"HTML5"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"HTTP"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hubspot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hugo"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"human"},{"LOWER":"visual"},{"LOWER":"system"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"human\u2013computer"},{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"human\u2013computer"},{"LOWER":"interaction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hybrid"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hybrid"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hypercube"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"hyperspectral"},{"LOWER":"imaging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ibm"},{"LOWER":"-"},{"LOWER":"api"},{"LOWER":"connect"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ibm "},{"LOWER":" api connect"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ibm"},{"LOWER":"db2"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"icon"},{"LOWER":"font"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"iframely"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"IFTTT"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"analysis"},{"LOWER":"api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"fusion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"meta"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"processing"},{"LOWER":"and"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"quality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"registration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"resolution"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"segmentation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"image"},{"LOWER":"sensor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"imgix"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"immutable.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"immutable"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"impala"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"in-memory"},{"LOWER":"databases"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"in"},{"LOWER":"memory databases"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"incapsula"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"incremental"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"indentation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"independent"},{"LOWER":"component"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"independent"},{"LOWER":"set"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"index"},{"LOWER":"term"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"industrial"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"industrial"},{"LOWER":"organization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"inference"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"influxdb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"infobox"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"discovery"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"extraction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"filtering"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"flow"},{"LOWER":"(information"},{"LOWER":"theory)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"integration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"overload"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"applications"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"query"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"seeking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"information"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"infrastructure"},{"LOWER":"build"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"inkwell"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"input"},{"LOWER":"device"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"insomnia"},{"LOWER":"rest"},{"LOWER":"client"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"inspec"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"instrumental"},{"LOWER":"variable"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"integer"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"integrated"},{"LOWER":"circuit"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"integrated"},{"LOWER":"development"},{"LOWER":"environment"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"integrated"},{"LOWER":"development"},{"LOWER":"environment"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"integrated"},{"LOWER":"services"},{"LOWER":"digital"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"intelligent"},{"LOWER":"agent"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"intelligent"},{"LOWER":"document"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"intelligent"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"intellij"},{"LOWER":"idea"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"inter-process"},{"LOWER":"communication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"inter"},{"LOWER":"process communication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"interaction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"interactive"},{"LOWER":"mockups"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"intercom"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"interconnection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"international"},{"LOWER":"trade"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"},{"LOWER":"hardware"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"internet"},{"LOWER":"privacy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"internet"},{"LOWER":"protocol"},{"LOWER":"suite"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"internetworking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"interpolation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"intrusion"},{"LOWER":"detection"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"intuitionistic"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"invision"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ionic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ios"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"IPFS"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ir"},{"LOWER":"evaluation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"issue"},{"LOWER":"tracking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"istio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"iterative"},{"LOWER":"reconstruction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jasmine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"java"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"java"},{"LOWER":"build"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"javascript"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"javascript"},{"LOWER":"framework"},{"LOWER":"components"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"javascript"},{"LOWER":"mvc"},{"LOWER":"frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"javascript"},{"LOWER":"testing"},{"LOWER":"framework"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"javascript"},{"LOWER":"ui"},{"LOWER":"libraries"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"javascript"},{"LOWER":"utilities"},{"LOWER":"&"},{"LOWER":"libraries"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jekyll"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jenkins"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jest"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jetty"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"JIRA"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jitter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jquery"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jquery"},{"LOWER":"mobile"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jquery"},{"LOWER":"ui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jruby"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"js"},{"LOWER":"build"},{"LOWER":"tools"},{"LOWER":"/"},{"LOWER":"js"},{"LOWER":"task"},{"LOWER":"runners"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"js build tools "},{"LOWER":" js task runners"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jsdoc"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"JSON"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"json"},{"LOWER":"server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"the"},{"LOWER":"julia"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"julia"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"junit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jupyter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"jupyter"},{"LOWER":"notebook"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"k-d"},{"LOWER":"tree"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"k"},{"LOWER":"d tree"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"k-nearest"},{"LOWER":"neighbors"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"k"},{"LOWER":"nearest neighbors algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kafka"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kalman"},{"LOWER":"filter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kanban"},{"LOWER":"for"},{"LOWER":"github"},{"LOWER":"issues"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kanban"},{"LOWER":"tool"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"karhunen\u2013lo\u00e8ve"},{"LOWER":"theorem"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"karma"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kendo"},{"LOWER":"ui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"keras"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kernel"},{"LOWER":"(linear"},{"LOWER":"algebra)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"key"},{"LOWER":"exchange"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"key"},{"LOWER":"(lock)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"keycdn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"keyword"},{"LOWER":"extraction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kibana"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kissmetrics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kitematic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knapsack"},{"LOWER":"problem"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knex.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knex"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knockoutjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"acquisition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"base"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge-based"},{"LOWER":"systems"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"based systems"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"extraction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"modeling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"representation"},{"LOWER":"and"},{"LOWER":"reasoning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"knowledge"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"koa"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"koding"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kong"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kotlin"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kubernetes"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"kullback\u2013leibler"},{"LOWER":"divergence"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lambda"},{"LOWER":"calculus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lambdatest"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"landing"},{"LOWER":"pages"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"language"},{"LOWER":"acquisition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"language"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"languages"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"laravel"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"laravel"},{"LOWER":"forge"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"laravel"},{"LOWER":"homestead"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lastpass"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"latency"},{"LOWER":"(engineering)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"latent"},{"LOWER":"dirichlet"},{"LOWER":"allocation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"latent"},{"LOWER":"semantic"},{"LOWER":"indexing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"latex"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"layout"},{"LOWER":"engine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"leaflet"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"least"},{"LOWER":"squares"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"legal"},{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"let's"},{"LOWER":"encrypt"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"level"},{"LOWER":"of"},{"LOWER":"detail"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"level"},{"LOWER":"set"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lexico"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"libraries"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"library"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"library"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"line-of-sight"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"line"},{"LOWER":"of"},{"LOWER":"sight"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"discriminant"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"prediction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"regression"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linear"},{"LOWER":"temporal"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"link"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"link"},{"LOWER":"layer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"link"},{"LOWER":"relation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linked"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linode"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linux"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"linux"},{"LOWER":"mint"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"liquibase"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"liquid-crystal"},{"LOWER":"display"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"liquid"},{"LOWER":"crystal display"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"live"},{"LOWER":"reloading"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"livereload"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"load"},{"LOWER":"and"},{"LOWER":"performance"},{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"load"},{"LOWER":"balancer"},{"LOWER":"/"},{"LOWER":"reverse"},{"LOWER":"proxy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"load balancer "},{"LOWER":" reverse proxy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"load"},{"LOWER":"balancing"},{"LOWER":"(computing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"load"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"loader.io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"loader"},{"LOWER":"io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"local"},{"LOWER":"area"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"local"},{"LOWER":"search"},{"LOWER":"(optimization)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"localhost"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"localization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"location-based"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"location"},{"LOWER":"based service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"locust"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lodash"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"log"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"loggly"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logic"},{"LOWER":"gate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logic"},{"LOWER":"in"},{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logic"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logic"},{"LOWER":"synthesis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logical"},{"LOWER":"framework"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logistic"},{"LOWER":"regression"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logrocket"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"logstash"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"look-ahead"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"look"},{"LOWER":"ahead"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lookup"},{"LOWER":"table"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lottie"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"low-pass"},{"LOWER":"filter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"low"},{"LOWER":"pass filter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lua"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lucene"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"lumen"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"LXC"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"LXD"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ml"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"machine"},{"LOWER":"learning"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"machine"},{"LOWER":"learning"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"machine"},{"LOWER":"vision"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"macos"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"magento"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mailchimp"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mailgun"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mailjet"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"managed"},{"LOWER":"memcache"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"management"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mandrill"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"manufacturing"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mapbox"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mapping"},{"LOWER":"apis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"marathon"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mariadb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"marine"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"marionette"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"markdown"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"marketing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"marketing"},{"LOWER":"automation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"markov"},{"LOWER":"chain"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"markup"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mastodon"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"matched"},{"LOWER":"filter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material"},{"LOWER":"design"},{"LOWER":"for"},{"LOWER":"angular"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material"},{"LOWER":"design"},{"LOWER":"for"},{"LOWER":"bootstrap"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material"},{"LOWER":"design"},{"LOWER":"lite"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material-ui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"material"},{"LOWER":"ui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"materialize"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mathematical"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"MATLAB"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mattermost"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"maven"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"maxcdn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"maximum"},{"LOWER":"a"},{"LOWER":"posteriori"},{"LOWER":"estimation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"MEAN"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mean-shift"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mean"},{"LOWER":"shift"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mechanical"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"media"},{"LOWER":"access"},{"LOWER":"control"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"medical"},{"LOWER":"imaging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"medical"},{"LOWER":"literature"},{"LOWER":"retrieval"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"medium"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"memcached"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"memcachier"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"memory"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mercurial"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mesh"},{"LOWER":"networking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mesosphere"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"message"},{"LOWER":"passing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"message"},{"LOWER":"queue"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"messenger"},{"LOWER":"platform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"metabase"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"metadata"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"metamodeling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"meteor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"metis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microcomputer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microcontroller"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microdata"},{"LOWER":"(html)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microframeworks"},{"LOWER":"(backend)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microprocessor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microservices"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microsoft"},{"LOWER":"azure"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microsoft"},{"LOWER":"bot"},{"LOWER":"framework"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microsoft"},{"LOWER":"iis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"microsoft"},{"LOWER":"sql"},{"LOWER":"server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"middleman"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"middleware"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mina"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"minecraft"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"minification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mining"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"minio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"missing"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mixed"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mixpanel"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mixture"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ml"},{"LOWER":"kit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"agent"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"backend"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"continuous"},{"LOWER":"integration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"error"},{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"prototyping"},{"LOWER":"&"},{"LOWER":"interaction"},{"LOWER":"design"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"push"},{"LOWER":"messaging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"radio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"robot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"station"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"telephony"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"testing"},{"LOWER":"frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobile"},{"LOWER":"ui"},{"LOWER":"frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobility"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobility"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mobx"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mocha"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"modal"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mode"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"model-based"},{"LOWER":"reasoning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"model"},{"LOWER":"based reasoning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"model"},{"LOWER":"checking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"modular"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"momentjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"monero"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mongodb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mongodb"},{"LOWER":"atlas"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mongodb"},{"LOWER":"hosting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mongodb"},{"LOWER":"stitch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mongoid"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mongolab"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mongoose"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"monitoring"},{"LOWER":"aggregation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"monitoring"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"morphology"},{"LOWER":"(linguistics)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"motion"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"motion"},{"LOWER":"compensation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"motion"},{"LOWER":"detection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"motion"},{"LOWER":"estimation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"motion"},{"LOWER":"planning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"moving"},{"LOWER":"average"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi-agent"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi"},{"LOWER":"agent system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi-core"},{"LOWER":"processor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi"},{"LOWER":"core processor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi-objective"},{"LOWER":"optimization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi"},{"LOWER":"objective optimization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi-user"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multi"},{"LOWER":"user"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multicast"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multidimensional"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multidimensional"},{"LOWER":"scaling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multilevel"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multimedia"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multimedia"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multimodal"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multiprocessing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multisearch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multispectral"},{"LOWER":"image"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multivariate"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"multivariate"},{"LOWER":"statistics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mustache"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mutual"},{"LOWER":"exclusion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mutual"},{"LOWER":"information"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mvc"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mvvmcross"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"mysql"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"naive"},{"LOWER":"bayes"},{"LOWER":"classifier"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"namecheap"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"named"},{"LOWER":"entity"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nativescript"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"NATS"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"natural"},{"LOWER":"deduction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"natural"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nlp"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"understanding"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nlu"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"navigation"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"neo4j"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"neovim"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"netbeans"},{"LOWER":"ide"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"netlify"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"netty"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"architecture"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"congestion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"delay"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"interface"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"layer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"performance"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"planning"},{"LOWER":"and"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"security"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"simulation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"network"},{"LOWER":"topology"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"neural"},{"LOWER":"coding"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"new"},{"LOWER":"relic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nexmo"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"next-generation"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"next"},{"LOWER":"generation network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"next.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"next"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nginx"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ngrok"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nightwatchjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nim"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nitrous.io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nitrous"},{"LOWER":"io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"node"},{"LOWER":"(networking)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"node.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"node.js"},{"LOWER":"process"},{"LOWER":"manager"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"node"},{"LOWER":"js process manager"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"node.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"noise"},{"LOWER":"measurement"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"noise"},{"LOWER":"reduction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"noisy"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nomad"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"non-volatile"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"non"},{"LOWER":"volatile memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nosql"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nosql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"notepad++"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"npm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"NSQ"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nuclear"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"numerical"},{"LOWER":"stability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"numpy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"nuxt"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"object"},{"LOWER":"detection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"object"},{"LOWER":"document"},{"LOWER":"mapper"},{"LOWER":"(odm)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"object"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"object-oriented"},{"LOWER":"programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"object"},{"LOWER":"oriented programming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"object"},{"LOWER":"relational"},{"LOWER":"mapper"},{"LOWER":"(orm)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"objective-c"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"objective"},{"LOWER":"c"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"octodns"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"octopus"},{"LOWER":"deploy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"omniauth"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"onesignal"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"online"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"online"},{"LOWER":"public"},{"LOWER":"access"},{"LOWER":"catalog"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"onsen"},{"LOWER":"ui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ontology"},{"LOWER":"(information"},{"LOWER":"science)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"open"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"open"},{"LOWER":"postgresql"},{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"open"},{"LOWER":"source"},{"LOWER":"cloud"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"open"},{"LOWER":"source"},{"LOWER":"service"},{"LOWER":"discovery"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"opencv"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"opengl"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"openlayers"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"openresty"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"openshift"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"openstack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"opensuse"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"operating"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"operating"},{"LOWER":"systems"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"operational"},{"LOWER":"transformation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"operations"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"operations"},{"LOWER":"research"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"operator"},{"LOWER":"(computer"},{"LOWER":"programming)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optical"},{"LOWER":"character"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optical"},{"LOWER":"disc"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optical"},{"LOWER":"flow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optical"},{"LOWER":"imaging"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optical"},{"LOWER":"recording"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optical"},{"LOWER":"transfer"},{"LOWER":"function"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optimization"},{"LOWER":"problem"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"optimizely"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"oracle"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"outlier"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"overlay"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"OVH"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"oxygene"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"p"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"P2P"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"package"},{"LOWER":"manager"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"package"},{"LOWER":"managers"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"packer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pandas"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"parallel"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"parallel"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"parcel"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"parse"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"parse-server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"parse"},{"LOWER":"server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"language"},{"LOWER":"parsing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"parsing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"particle"},{"LOWER":"filter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"particle"},{"LOWER":"swarm"},{"LOWER":"optimization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"passenger"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"passive"},{"LOWER":"optical"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"password"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"patent"},{"LOWER":"classification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"patent"},{"LOWER":"visualisation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"path"},{"LOWER":"analysis"},{"LOWER":"(statistics)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pattern"},{"LOWER":"matching"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pattern"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pattern"},{"LOWER":"recognition"},{"LOWER":"(psychology)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"paw"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"payment"},{"LOWER":"services"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"payments"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"paypal"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"peak"},{"LOWER":"signal-to-noise"},{"LOWER":"ratio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"peak signal"},{"LOWER":"to"},{"LOWER":"noise ratio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"peer-to-peer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"peer"},{"LOWER":"to"},{"LOWER":"peer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"performance"},{"LOWER":"metric"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"performance"},{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"performance"},{"LOWER":"prediction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"perl"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"perl"},{"LOWER":"6"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"persistence"},{"LOWER":"(computer"},{"LOWER":"science)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"petri"},{"LOWER":"net"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"petroleum"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phabricator"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phalcon"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phantomjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phaser"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phoenix"},{"LOWER":"framework"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phonegap"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"photogrammetry"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"PHP"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"PHP-MVC"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"php"},{"LOWER":"mvc"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phpstorm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"phpunit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"PICO-8"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pico"},{"LOWER":"8"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pile"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pingdom"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"piwik"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pixel"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pixel"},{"LOWER":"art"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"plagiarism"},{"LOWER":"detection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"play"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"plotly"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"point"},{"LOWER":"location"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"point"},{"LOWER":"spread"},{"LOWER":"function"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"point-to-point"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"point"},{"LOWER":"to"},{"LOWER":"point"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"polymer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"polymorphism"},{"LOWER":"(computer"},{"LOWER":"science)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"port"},{"LOWER":"(computer"},{"LOWER":"networking)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"portainer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pose"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"postcss"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"postgis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"postgresql"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"postgresql"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"postman"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"postmark"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pouchdb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"power"},{"LOWER":"control"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"power"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"preact"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"precision"},{"LOWER":"and"},{"LOWER":"recall"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"predictive"},{"LOWER":"coding"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"predictive"},{"LOWER":"value"},{"LOWER":"of"},{"LOWER":"tests"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"presentation"},{"LOWER":"semantics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"prestashop"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"presto"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"principal"},{"LOWER":"component"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"prisma"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"process"},{"LOWER":"calculus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"process"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"process"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"prognostics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"program"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"program"},{"LOWER":"design"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"program"},{"LOWER":"optimization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"program"},{"LOWER":"synthesis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"program"},{"LOWER":"transformation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"programmable"},{"LOWER":"logic"},{"LOWER":"device"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"programming"},{"LOWER":"&"},{"LOWER":"code"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"programming"},{"LOWER":"paradigm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"prolog"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"prometheus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"propagation"},{"LOWER":"delay"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"propositional"},{"LOWER":"calculus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"prosthesis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"protractor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"proximity"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"publishing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pubnub"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pug"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pulp"},{"LOWER":"and"},{"LOWER":"paper"},{"LOWER":"industry"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pulse"},{"LOWER":"(signal"},{"LOWER":"processing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"puma"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"puppet"},{"LOWER":"labs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"puppeteer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"push"},{"LOWER":"monkey"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pushdown"},{"LOWER":"automaton"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pusher"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pushwoosh"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"PWA"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pycharm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"python"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"pytorch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"qt"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"quality"},{"LOWER":"of"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"quantifier"},{"LOWER":"elimination"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"quantization"},{"LOWER":"(signal"},{"LOWER":"processing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"quantum"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"quantum"},{"LOWER":"computer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"query"},{"LOWER":"expansion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"query"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"query"},{"LOWER":"languages"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"query"},{"LOWER":"optimization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"query"},{"LOWER":"string"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"question"},{"LOWER":"answering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"queue"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"queueing"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"qunit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"R"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rabbitmq"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rackspace"},{"LOWER":"cloud"},{"LOWER":"servers"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rails"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rails"},{"LOWER":"api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"RAML"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rancher"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"random"},{"LOWER":"access"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"random"},{"LOWER":"effects"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"random"},{"LOWER":"forest"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"random"},{"LOWER":"indexing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"random"},{"LOWER":"projection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"range"},{"LOWER":"query"},{"LOWER":"(data"},{"LOWER":"structures)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ranking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"raspberry"},{"LOWER":"pi"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ratchet"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"RDF"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"reachability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react"},{"LOWER":"hot"},{"LOWER":"loader"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react"},{"LOWER":"native"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react"},{"LOWER":"navigation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react"},{"LOWER":"router"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react"},{"LOWER":"storybook"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react.js"},{"LOWER":"boilerplate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"react"},{"LOWER":"js boilerplate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"reactiveui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"read-only"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"read"},{"LOWER":"only memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"read-write"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"read"},{"LOWER":"write memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"readme.io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"readme"},{"LOWER":"io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real-time"},{"LOWER":"communication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real"},{"LOWER":"time communication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real-time"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real"},{"LOWER":"time computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real-time"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real"},{"LOWER":"time data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real-time"},{"LOWER":"data"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real"},{"LOWER":"time data processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real-time"},{"LOWER":"operating"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"real"},{"LOWER":"time operating system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"realm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"realtime"},{"LOWER":"analytics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"realtime"},{"LOWER":"backend"},{"LOWER":"/"},{"LOWER":"api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"realtime backend "},{"LOWER":" api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"receiver"},{"LOWER":"operating"},{"LOWER":"characteristic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"recommender"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"record"},{"LOWER":"linkage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"recurly"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"recursion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redash"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redis"},{"LOWER":"cloud"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redis"},{"LOWER":"hosting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redmine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redundancy"},{"LOWER":"(engineering)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redux"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redux-saga"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redux"},{"LOWER":"saga"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redux-thunk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redux"},{"LOWER":"thunk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redux.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"redux"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"reference"},{"LOWER":"frame"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"region"},{"LOWER":"of"},{"LOWER":"interest"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"regression"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"regular"},{"LOWER":"expression"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"regular"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"reinforcement"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"relational"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"relative"},{"LOWER":"record"},{"LOWER":"data"},{"LOWER":"set"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"relay"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"release"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"reliability"},{"LOWER":"(computer"},{"LOWER":"networking)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"reliability"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"remote"},{"LOWER":"control"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"remote"},{"LOWER":"procedure"},{"LOWER":"call"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"remote"},{"LOWER":"procedure"},{"LOWER":"call"},{"LOWER":"(rpc)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"replication"},{"LOWER":"(computing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"requirejs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"residual"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"resource"},{"LOWER":"allocation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"response"},{"LOWER":"surface"},{"LOWER":"methodology"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"response"},{"LOWER":"time"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"resque"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rest"},{"LOWER":"api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"result"},{"LOWER":"set"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rethinkdb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"reverse"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"riak"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"riot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"risk"},{"LOWER":"analysis"},{"LOWER":"(engineering)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"robot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"robustness"},{"LOWER":"(computer"},{"LOWER":"science)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rocket"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rollbar"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rotation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rough"},{"LOWER":"set"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"round-trip"},{"LOWER":"delay"},{"LOWER":"time"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"round"},{"LOWER":"trip delay time"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"router"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"routing"},{"LOWER":"protocol"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rspec"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rubocop"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ruby"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rubymine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rule-based"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rule"},{"LOWER":"based system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rule"},{"LOWER":"induction"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rule"},{"LOWER":"of"},{"LOWER":"thumb"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"runscope"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"runtime"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rust"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"rxjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sails.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sails"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"salesforce"},{"LOWER":"sales"},{"LOWER":"cloud"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sass"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"satisfiability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sauce"},{"LOWER":"labs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scaffold"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scala"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scalability"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scalable"},{"LOWER":"vector"},{"LOWER":"graphics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scale"},{"LOWER":"space"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scaleway"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scanner"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"schedule"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scheduling"},{"LOWER":"(computing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scientometrics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scikit-learn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scikit"},{"LOWER":"learn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"screen"},{"LOWER":"sharing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scripting"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"scrutinizer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"software-defined"},{"LOWER":"networking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"software"},{"LOWER":"defined networking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search"},{"LOWER":"box"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search"},{"LOWER":"engine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search"},{"LOWER":"engine"},{"LOWER":"indexing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search"},{"LOWER":"engines"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search/retrieve"},{"LOWER":"via"},{"LOWER":"url"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"search"},{"LOWER":"retrieve via url"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"seasonality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"secret"},{"LOWER":"sharing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"secrets"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"secure"},{"LOWER":"communication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"secure"},{"LOWER":"multi-party"},{"LOWER":"computation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"secure multi"},{"LOWER":"party computation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"security"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"seesaw"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"segment"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"segmentation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"selenium"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"self-hosted"},{"LOWER":"blogging"},{"LOWER":"/"},{"LOWER":"cms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"self-hosted blogging "},{"LOWER":" cms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"self"},{"LOWER":"hosted blogging / cms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"self-management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"self"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"self-organization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"self"},{"LOWER":"organization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"data"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"html"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"matching"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"similarity"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"ui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"ui"},{"LOWER":"react"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"web"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantic"},{"LOWER":"web"},{"LOWER":"stack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semantics"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semaphore"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semi-supervised"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"semi"},{"LOWER":"supervised learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sencha"},{"LOWER":"touch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sendbird"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sendgrid"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sendwithus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sensor"},{"LOWER":"array"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sensor"},{"LOWER":"fusion"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sensor"},{"LOWER":"tower"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sentiment"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sentry"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sequel"},{"LOWER":"pro"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sequelize"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sequential"},{"LOWER":"logic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sequential"},{"LOWER":"pattern"},{"LOWER":"mining"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"server"},{"LOWER":"configuration"},{"LOWER":"and"},{"LOWER":"automation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"serverless"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"serverless"},{"LOWER":"/"},{"LOWER":"task"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"serverless "},{"LOWER":" task processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shape"},{"LOWER":"analysis"},{"LOWER":"(digital"},{"LOWER":"geometry)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shared"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shared"},{"LOWER":"resource"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shell"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shields.io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shields"},{"LOWER":"io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shift"},{"LOWER":"register"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shippable"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shopify"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shortest"},{"LOWER":"path"},{"LOWER":"problem"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"shrinkage"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sidekiq"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"signal"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"signal"},{"LOWER":"strength"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"signalr"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"similarity"},{"LOWER":"measure"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"simulated"},{"LOWER":"annealing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"simulation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sinatra"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"skeleton"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"skeleton"},{"LOWER":"(computer"},{"LOWER":"programming)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sketch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"skype"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"slack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sliding"},{"LOWER":"window"},{"LOWER":"protocol"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"slim"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"slim"},{"LOWER":"lang"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"SMA*"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"smart"},{"LOWER":"card"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"smart"},{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"smoothing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"snippet"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"snowflake"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"snyk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"social"},{"LOWER":"media"},{"LOWER":"tools"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"socket.io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"socket"},{"LOWER":"io"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"softlayer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"software"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"software"},{"LOWER":"agent"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"software-defined"},{"LOWER":"radio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"software"},{"LOWER":"defined radio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"software"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"solid"},{"LOWER":"modeling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"solr"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sonar"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sonarqube"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sonatype"},{"LOWER":"nexus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sorting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"source"},{"LOWER":"code"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"source"},{"LOWER":"code"},{"LOWER":"management"},{"LOWER":"desktop"},{"LOWER":"apps"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"source"},{"LOWER":"document"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"source"},{"LOWER":"separation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sourcetree"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spacemacs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spacevim"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sparkpost"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sparse"},{"LOWER":"approximation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spatial"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spatial"},{"LOWER":"frequency"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"speaker"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"specification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"specification"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"speckle"},{"LOWER":"pattern"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spectrogram"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"speech"},{"LOWER":"coding"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"speech"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"speech"},{"LOWER":"recognition"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sphinx"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spread"},{"LOWER":"spectrum"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spreadsheets"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"backend"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spreadsheets"},{"LOWER":"online"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spree"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spring-boot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"spring"},{"LOWER":"cloud"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"SQL"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sqlalchemy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sqlite"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"squarespace"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stack"},{"LOWER":"overflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stackdriver"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stamplay"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"standard"},{"LOWER":"ml"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stars"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"state"},{"LOWER":"diagram"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"state"},{"LOWER":"management"},{"LOWER":"library"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"static"},{"LOWER":"random-access"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"static random"},{"LOWER":"access memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"static"},{"LOWER":"site"},{"LOWER":"generators"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"static"},{"LOWER":"timing"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"static"},{"LOWER":"web"},{"LOWER":"hosting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"statistical"},{"LOWER":"classification"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"statistical"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"status"},{"LOWER":"page"},{"LOWER":"hosting"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"statuscake"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stemming"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stereopsis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stitch"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stop"},{"LOWER":"words"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"storm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"storybook"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stream"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stream"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"STREAMS"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stripe"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"STRIPS"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"strongly"},{"LOWER":"connected"},{"LOWER":"component"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"structural"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"structural"},{"LOWER":"equation"},{"LOWER":"modeling"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"structured"},{"LOWER":"document"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"structured"},{"LOWER":"text"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"styled-components"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"styled"},{"LOWER":"components"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stylelint"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"stylus"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"subject"},{"LOWER":"access"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"sublime"},{"LOWER":"text"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"supercomputer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"superresolution"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"superset"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"supervised"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"supervisory"},{"LOWER":"control"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"support"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"support,"},{"LOWER":"sales,"},{"LOWER":"and"},{"LOWER":"marketing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"support"},{"LOWER":"vector"},{"LOWER":"machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"surge"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"survey"},{"LOWER":"widget"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"svn"},{"LOWER":"(subversion)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"swagger"},{"LOWER":"ui"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"swift"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"swiftype"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"symfony"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"symmetric"},{"LOWER":"multiprocessor"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"synchronization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"syntax"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"synthetic"},{"LOWER":"aperture"},{"LOWER":"radar"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"synthetic"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"system"},{"LOWER":"integration"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"system"},{"LOWER":"on"},{"LOWER":"a"},{"LOWER":"chip"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"system"},{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"systems"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"systems"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"table"},{"LOWER":"(information)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tableau"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tabu"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tailwind"},{"LOWER":"css"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"task"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"teamcity"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"technological"},{"LOWER":"change"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"telecommunications"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"telecommunications"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"telecommunications"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"telegram"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"telegram"},{"LOWER":"bot"},{"LOWER":"api"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"telephony"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"template"},{"LOWER":"matching"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"templating"},{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"extensions"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"temporal"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tensorflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tensorflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"terminal"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"terraform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"testflight"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"testing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"testing"},{"LOWER":"frameworks"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"text"},{"LOWER":"box"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"text"},{"LOWER":"editor"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"text"},{"LOWER":"mining"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"text"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"text"},{"LOWER":"retrieval"},{"LOWER":"conference"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"text"},{"LOWER":"segmentation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"textmate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tf\u2013idf"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"theoretical"},{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"thread"},{"LOWER":"(computing)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"thresholding"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"throughput"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time"},{"LOWER":"constraint"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time"},{"LOWER":"domain"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time"},{"LOWER":"of"},{"LOWER":"arrival"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time"},{"LOWER":"series"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time-sharing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time"},{"LOWER":"sharing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time"},{"LOWER":"to"},{"LOWER":"market"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time"},{"LOWER":"tracking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"time\u2013frequency"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"title"},{"LOWER":"search"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tools"},{"LOWER":"for"},{"LOWER":"github"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tools"},{"LOWER":"for"},{"LOWER":"text"},{"LOWER":"editors"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"top-down"},{"LOWER":"and"},{"LOWER":"bottom-up"},{"LOWER":"design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"top"},{"LOWER":"down and bottom"},{"LOWER":"up design"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"topic"},{"LOWER":"maps"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"topic"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tornado"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tower"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tracking"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"traefik"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"traffic"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"traffic"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"training"},{"LOWER":"set"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"transactional"},{"LOWER":"email"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"transition"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"translation"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"transparency"},{"LOWER":"(graphic)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"transport"},{"LOWER":"engineering"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"transport"},{"LOWER":"layer"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"travelling"},{"LOWER":"salesman"},{"LOWER":"problem"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"travis"},{"LOWER":"ci"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"TRECVID"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tree"},{"LOWER":"automaton"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tree"},{"LOWER":"(data"},{"LOWER":"structure)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"tree"},{"LOWER":"structure"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"trello"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"trend"},{"LOWER":"analysis"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"triangulation"},{"LOWER":"(social"},{"LOWER":"science)"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"turing"},{"LOWER":"machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"twilio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"twitter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"type"},{"LOWER":"inference"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"type"},{"LOWER":"theory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"typeform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"typescript"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ubiquitous"},{"LOWER":"computing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"ubuntu"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"uglifyjs"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"uikit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"uncertain"},{"LOWER":"data"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"underscore"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"unicorn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"unified"},{"LOWER":"medical"},{"LOWER":"language"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"unified"},{"LOWER":"modeling"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"unity"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"unreal"},{"LOWER":"engine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"unsupervised"},{"LOWER":"learning"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"uppy"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"uptime"},{"LOWER":"robot"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"urban"},{"LOWER":"airship"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"user"},{"LOWER":"feedback"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"user"},{"LOWER":"interface"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"user"},{"LOWER":"management"},{"LOWER":"and"},{"LOWER":"authentication"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"user"},{"LOWER":"profile"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"utilities"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vagrant"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"variables"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"varnish"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vault"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vector"},{"LOWER":"space"},{"LOWER":"model"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"version"},{"LOWER":"control"},{"LOWER":"system"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"very"},{"LOWER":"large"},{"LOWER":"database"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"video"},{"LOWER":"processing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"video"},{"LOWER":"quality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"video"},{"LOWER":"tracking"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vim"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"circuit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"},{"LOWER":"platforms"},{"LOWER":"&"},{"LOWER":"containers"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"memory"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"organization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"private"},{"LOWER":"cloud"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtual"},{"LOWER":"reality"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtualbox"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"virtualization"},{"LOWER":"platform"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visual"},{"LOWER":"basic"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visual"},{"LOWER":"cortex"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visual"},{"LOWER":"inspection"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visual"},{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visual"},{"LOWER":"studio"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visual"},{"LOWER":"studio"},{"LOWER":"code"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visual"},{"LOWER":"studio"},{"LOWER":"team"},{"LOWER":"services"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"visualization"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"viterbi"},{"LOWER":"algorithm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vmware"},{"LOWER":"vsphere"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"voice"},{"LOWER":"and"},{"LOWER":"sms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"voice"},{"LOWER":"over"},{"LOWER":"ip"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vue.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vue.js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vuepress"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vuetify"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"vuex"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wagtail"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wakatime"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"waste"},{"LOWER":"management"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"watershed"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wavefront"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wavelength-division"},{"LOWER":"multiplexing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wavelength"},{"LOWER":"division multiplexing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wavelet"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"and"},{"LOWER":"video"},{"LOWER":"conferencing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"app"},{"LOWER":"builders"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"components"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"crawler"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"document"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"forms"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"mining"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"server"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"servers"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"service"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"service"},{"LOWER":"automation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"starter"},{"LOWER":"kit"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"web"},{"LOWER":"app"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"webflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"webpack"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"website"},{"LOWER":"builder"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"website"},{"LOWER":"monitoring"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"webstorm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"weebly"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wercker"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wide"},{"LOWER":"area"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wiener"},{"LOWER":"filter"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wimax"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"windows"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wireframing"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wireless"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wireless"},{"LOWER":"ad"},{"LOWER":"hoc"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wireless"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wireless"},{"LOWER":"sensor"},{"LOWER":"network"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wix"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"woocommerce"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"woopra"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"word"},{"LOWER":"error"},{"LOWER":"rate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"word-sense"},{"LOWER":"disambiguation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"word"},{"LOWER":"sense disambiguation"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wordnet"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wordplate"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"wordpress"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"workflow"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"workflow"},{"LOWER":"manager"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"workload"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"world"},{"LOWER":"wide"},{"LOWER":"web"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"xamarin"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"xcode"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"TEXT":"XML"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"yarn"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"yeoman"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"yii"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zend"},{"LOWER":"framework"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zendesk"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zenefits"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zeplin"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zepto"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zeromq"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zoho"},{"LOWER":"crm"}]}
+{"label":"TECHNICAL SKILLS","pattern":[{"LOWER":"zookeeper"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": ".NET"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "net"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "1password"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "3D"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "3d"}, {"LOWER": "reconstruction"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aboutness"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "abstract"}, {"LOWER": "data"}, {"LOWER": "type"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "abstract"}, {"LOWER": "interpretation"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "agile methodology"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "angular"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "artificial intelligence"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "augmented reality"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "big data"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "blockchain"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "cloud computing"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "computer vision"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "css"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "cybersecurity"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "data science"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "devops"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "django"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "docker"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "elasticsearch"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "flutter"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "full stack development"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "git"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "golang"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "hadoop"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "html"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "ionic"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "java"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "javascript"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "jenkins"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "kotlin"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "kubernetes"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "machine learning"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "microsoft azure"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "mongodb"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "mysql"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "node.js"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "npm"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "object-oriented programming"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "oracle"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "postgresql"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "python"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "react"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "ruby on rails"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "sas"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "scala"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "sql"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "swift"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "tableau"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "tensorflow"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "ui/ux design"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "unity"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "unix"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "visual studio code"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "wordpress"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "wordpress development"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "web development"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "yarn"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "zookeeper"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "ansible"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "angularjs"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "apache"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "api"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "artificial neural network"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws lambda"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws amplify"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws appsync"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws kinesis"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws lambda layers"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws serverless framework"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "azure cosmos db"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "azure databricks"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "azure kubernetes service"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "azure synapse analytics"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "bigquery"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "digital ocean droplet"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "github actions"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "google cloud functions"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "google cloud pub/sub"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "google cloud scheduler"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "google cloud sql"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "heroku"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "jenkins jobs"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "kubernetes ingress controller"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "kubernetes scheduler"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "kubernetes service"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "microsoft azure machine learning studio"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "mysql cluster"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "node.js npm scripts"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "postgresql postgres cli"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "python virtualenv"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "react hooks"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "ruby on rails migrations"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "sas data management"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "scala spark streaming"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "shell script functions"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "software development kit (sdk)"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "software testing automation"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "tensorflow lite model maker"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "uipath rpa studio"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "unity game development c#"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "unix sed"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "visual studio code tasks"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "vue.js router"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "wordpress theme customization"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "wordpress theme development with sass"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "wordpress widgets"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "yarn workspaces"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "zookeeper ensemble"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "aws cloud formation template"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "azure resource manager template"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "google cloud deployment manager template"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "jenkins pipeline script"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "kubernetes deployment yaml"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "kubernetes service yaml"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "postgresql pgadmin extension"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "python package manager"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "react component library"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "ruby on rails gem"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "sas data mining"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "scala spark sql"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "shell script scripting"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "software development life cycle (sdlc) phases"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "software testing types"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "spark machine learning"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "tableau server configuration"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "tensorflow lite model optimization"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "uipath automation cloud"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "unity game development assets"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "unix shell scripting commands"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "visual studio code extensions marketplace"}]}
+{"label": "TECHNICAL SKILLS", "pattern": [{"LOWER": "vue.js cli"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "leadership"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "communication"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "problem-solving"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "creativity"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "critical thinking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "organization"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional intelligence"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "conflict resolution"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "decision-making"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "negotiation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "interpersonal skills"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "collaboration"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "empathy"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "self motivated"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "time management"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "attention to detail"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "public speaking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "relationship building"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional resilience"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "active listening"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "leadership"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "communication"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "problem-solving"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "creativity"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "critical thinking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "organization"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional intelligence"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "conflict resolution"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "decision-making"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "negotiation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "interpersonal skills"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "collaboration"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "empathy"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "self-motivation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "time management"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "attention to detail"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "public speaking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "relationship building"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional resilience"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "active listening"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "communication"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "problem-solving"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "leadership"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "time management"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "critical thinking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "organization"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "creativity"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional intelligence"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "conflict resolution"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "decision-making"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "negotiation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "interpersonal skills"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "collaboration"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "empathy"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "self-motivation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "time management"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "attention to detail"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "leadership"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "communication"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "problem-solving"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "creativity"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "critical thinking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "organization"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional intelligence"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "conflict resolution"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "decision-making"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "negotiation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "interpersonal skills"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "collaboration"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "empathy"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "self-motivation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "time management"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "attention to detail"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "leadership"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "communication"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "problem-solving"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "creativity"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "critical thinking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "organization"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional intelligence"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "conflict resolution"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "decision-making"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "negotiation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "interpersonal skills"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "collaboration"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "empathy"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "self-motivation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "time management"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "attention to detail"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "leadership"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "communication"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "problem-solving"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "creativity"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "critical thinking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "organization"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "emotional intelligence"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "conflict resolution"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "decision-making"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "negotiation"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "interpersonal skills"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "collaboration"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "empathy"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "self motivated"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "time management"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "attention to detail"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "hardworking"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "energetic"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "professional"}]}
+{"label": "NON TECHNICAL SKILLS", "pattern": [{"LOWER": "proï¬ciency "}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "2 years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "1 year"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "6 years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "3 years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "4 years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "5 years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "6 months"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "six months"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "one year"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "two years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "three years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "four years"}]}
+{"label": "YEARS OF EXPERIENCE", "pattern": [{"LOWER": "five years"}]}
